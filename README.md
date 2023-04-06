@@ -14,5 +14,6 @@ Se nenhum dos jogadores conseguir vencer, o jogo termina em empate.
 
 O programa armazena o número de pontos dos jogadores em um arquivo de texto chamado "resultados.txt". O arquivo é atualizado quando os jogadores não quiserem mais jogar.
 
-Créditos
+
+#Créditos
 Este projeto foi criado por [Rodrigo Mentz].
